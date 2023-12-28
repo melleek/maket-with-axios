@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+}
+.bg {
+  background-image: url("src/assets/main/Rectangle 25.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.d1 {
+  background-image: url("src/assets/card2/Bg (3).png");
+  background-repeat: no-repeat;
+}
+.d2 {
+  background-image: url("src/assets/card2/Bg (4).png");
+  background-repeat: no-repeat;
+}
+.d3 {
+  background-image: url("src/assets/card2/Bg (5).png");
+  background-repeat: no-repeat;
+}
+.d4 {
+  background-image: url("src/assets/card2/Bg (6).png");
+  background-repeat: no-repeat;
+}
+
+

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "name": "Jungkook",
+      "age": "26",
+      "role": "vocal",
+      "id": 1
+    },
+    {
+      "name": "RM",
+      "age": "26",
+      "role": "rep-line",
+      "id": 2
+    },
+    {
+      "name": "Jin",
+      "age": "26",
+      "role": "vocal",
+      "id": 3
+    }
+  ]
+}
